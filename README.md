@@ -1,4 +1,5 @@
-# human-resource-machine
+# Human Resource Machine
+
 Solutions for Human Resource Machine
 
 | Year | Size (target) | Speed (target) |
