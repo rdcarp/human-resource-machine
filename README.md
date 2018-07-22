@@ -20,6 +20,7 @@ Solutions for Human Resource Machine
 | 14   | 12 (10)       | 40 (34)        |
 | Employee Morale Insertion             |
 | 16   | 8 (8)         | 40 (36)        |
+| 17   | 20 (12)       | 70 (28)        |
 | Sabatical Beach Paradise              |
 | 19   | 14 (10)       | 122 (82)       |
 | 20   | 23 (15)       | 128 (109)      |
